@@ -1,6 +1,5 @@
-Pela estrutura do seu repositório (pasta **cypress**, **config**, **package.json**, etc.), esse README pode ficar **bem alinhado com o projeto real**. Segue um modelo pronto para colocar no **README.md** do seu GitHub:
 
----
+
 
 # 🧪 Cypress E2E Automation
 
